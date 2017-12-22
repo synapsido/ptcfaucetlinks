@@ -1,0 +1,38 @@
+{
+  "referals": [
+    {
+      "name": "BTC Clicks",
+      "url": "https://btcclicks.com/?r=136bccf0"
+    },
+    {
+      "name": "FreeBitcoin",
+      "url": "https://freebitco.in/?r=4371527"
+    },
+    {
+      "name": "Bonus Bitcoin",
+      "url": "http://bonusbitcoin.co/?ref=EDF6B987CC25"
+    },
+    {
+      "name": "Bit Fun",
+      "url": "http://bitfun.co/?ref=9161FDAF7FAD"
+    },
+    {
+      "name": "REFBIT",
+      "url": "http://refbit.net/rid/134594"
+    },
+    {
+      "name": "BoxBit",
+      "url": "http://boxbit.co.in/?ref=1AM5cvgo4HBP2BF6hZ8Q2zMuCDippAULkU"
+    },
+    {
+      "name": "Bitter",
+      "url": "https://bitter.io/surf?r=590847"
+    }
+  ],
+  "minig": [
+    {
+      "name": "Coinpot",
+      "url": "https://coinpot.co/mine/bitcoincore/?ref=C5F2CCDA5AFA"
+    }
+  ]
+}

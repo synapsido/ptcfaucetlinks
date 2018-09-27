@@ -31,8 +31,12 @@
   ],
   "minig": [
     {
-      "name": "Coinpot",
+      "name": "Coinpot BTC minig",
       "url": "https://coinpot.co/mine/bitcoincore/?ref=C5F2CCDA5AFA"
+    },
+    {
+      "name": "Coinpot LTC minig",
+      "url": "https://coinpot.co/mine/litecoin/?ref=C5F2CCDA5AFA"
     }
   ]
 }

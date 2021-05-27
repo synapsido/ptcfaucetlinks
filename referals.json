@@ -7,44 +7,6 @@
     {
       "name": "FreeBitcoin",
       "url": "https://freebitco.in/?r=4371527"
-    },
-    {
-      "name": "Bonus Bitcoin",
-      "url": "http://bonusbitcoin.co/?ref=EDF6B987CC25"
-    },
-    {
-      "name": "Bit Fun",
-      "url": "http://bitfun.co/?ref=9161FDAF7FAD"
-    },
-    {
-      "name": "REFBIT",
-      "url": "http://refbit.net/rid/134594"
-    },
-    {
-      "name": "BoxBit",
-      "url": "http://boxbit.co.in/?ref=1AM5cvgo4HBP2BF6hZ8Q2zMuCDippAULkU"
-    },
-    {
-      "name": "Bitter",
-      "url": "https://bitter.io/surf?r=590847"
-    },
-    {
-      "name": "Moon Litecoin",
-      "url": "http://moonliteco.in/?ref=b6fbd223c821"
-    },
-    {
-      "name": "Moon Dogecoin",
-      "url": "http://moondoge.co.in/?ref=7dde52a96a71"
-    }
-  ],
-  "minig": [
-    {
-      "name": "Coinpot BTC minig",
-      "url": "https://coinpot.co/mine/bitcoincore/?ref=C5F2CCDA5AFA"
-    },
-    {
-      "name": "Coinpot LTC minig",
-      "url": "https://coinpot.co/mine/litecoin/?ref=C5F2CCDA5AFA"
     }
   ]
 }

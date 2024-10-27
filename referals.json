@@ -1,9 +1,5 @@
 {
-  "referals": [
-    {
-      "name": "BTC Clicks",
-      "url": "https://btcclicks.com/?r=136bccf0"
-    },
+  "referals":[
     {
       "name": "FreeBitcoin",
       "url": "https://freebitco.in/?r=4371527"
@@ -11,6 +7,10 @@
     {
       "name": "Free-Ethereum",
       "url": "https://free-ethereum.io/?referer=118878"
+    },
+    {
+      "name": "BTC Clicks",
+      "url": "https://btcclicks.com/?r=136bccf0"
     }
   ]
 }
